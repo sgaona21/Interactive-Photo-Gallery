@@ -10,7 +10,7 @@
     justify-content: center;
 }
 
-#search-bar {
+#search {
     margin: 1.5rem;
     padding: .75rem;
     width: 50%;
@@ -18,7 +18,7 @@
     border-radius: 5px;
 }
 
-.thumbnail-container {
+.gallery {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
